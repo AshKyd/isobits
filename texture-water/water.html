@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title></title>
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width">
+		<style type="text/css">
+			*{
+				margin:0;
+				padding:0;
+			}
+			div{
+				height:100%;
+				width:50%;
+				float:left;
+			}
+			.light{
+				background:url("water-light.gif") right top;
+			}
+			.dark{
+				background:url("water-dark.gif") left top;
+			}
+		</style>
+		<script>
+		window.onresize = function(){
+			document.querySelector('body').style.height = window.innerHeight+'px';
+		}
+		window.onload = function(){
+			window.onresize();
+		}
+		</script>
+	</head>
+	<body>
+		<div class="light"></div>
+		<div class="dark"></div>
+
+	</body>
+</html>
+
