@@ -565,8 +565,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="336.36013"
-     inkscape:cy="385.60048"
+     inkscape:cx="445.60813"
+     inkscape:cy="390.19667"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-1-9"
      showgrid="false"
@@ -1056,6 +1056,46 @@
            x="463.42502"
            y="876.93103"
            style="font-size:13px;letter-spacing:0px;fill:#888888">Commercial</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path8560"
+         d="m 823.03981,843.37758 0,32.46224 -50.64108,25.32054 0,-32.46224 z"
+         style="fill:#2e005a;fill-opacity:1;stroke:none"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3517"
+         y="890.01251"
+         x="697.61438"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:-52.50999832px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         xml:space="preserve"><tspan
+           style="font-size:13px;letter-spacing:0px"
+           y="890.01251"
+           x="697.61438"
+           id="tspan3519"
+           sodipodi:role="line">Billboard!</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:-52.50999832px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         x="697.61438"
+         y="826.01935"
+         id="text3521"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3523"
+           x="697.61438"
+           y="826.01935"
+           style="font-size:13px;letter-spacing:0px">Shrubbery</tspan></text>
+      <path
+         transform="translate(820.70024,767.94337)"
+         d="m -28.637826,54.828121 a 4.9497476,4.9497476 0 1 1 -9.899496,0 4.9497476,4.9497476 0 1 1 9.899496,0 z"
+         sodipodi:ry="4.9497476"
+         sodipodi:rx="4.9497476"
+         sodipodi:cy="54.828121"
+         sodipodi:cx="-33.587574"
+         id="path11234"
+         style="fill:#66ff00;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
     </g>
     <text
        xml:space="preserve"
