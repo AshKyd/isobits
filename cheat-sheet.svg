@@ -14,7 +14,7 @@
    height="1052.3622047"
    id="svg27099"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="cheat-sheet.svg">
   <defs
      id="defs27101">
@@ -565,15 +565,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="224.99081"
-     inkscape:cy="466.91776"
+     inkscape:cx="430.93566"
+     inkscape:cy="420.24871"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-1-9"
      showgrid="false"
-     inkscape:window-width="3200"
-     inkscape:window-height="1687"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
      inkscape:window-x="0"
-     inkscape:window-y="55"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -1110,6 +1110,31 @@
          height="20"
          x="366.10416"
          y="705.66577" />
+      <rect
+         style="fill:#dbdbc1;fill-opacity:1;stroke:none;display:inline"
+         id="rect3145"
+         width="69.5"
+         height="20"
+         x="562.47046"
+         y="882.93103" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3147"
+         y="876.93103"
+         x="563.48065"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:-52.50999832px;word-spacing:0px;fill:#888888;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         xml:space="preserve"><tspan
+           style="font-size:13px;letter-spacing:0px;fill:#888888"
+           y="876.93103"
+           x="563.48065"
+           sodipodi:role="line"
+           id="tspan3169">Industrial</tspan></text>
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="fill:#311849;fill-opacity:1;stroke:none"
+         d="m 828.26017,843.37758 0,32.46224 50.64108,25.32054 0,-32.46224 z"
+         id="path3173"
+         inkscape:connector-curvature="0" />
     </g>
     <text
        xml:space="preserve"
