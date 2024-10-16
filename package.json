@@ -1,0 +1,12 @@
+{
+  "name": "isobits",
+  "version": "1.0.0",
+  "description": "Just bits and pieces of isometric (or texturable) SVG work.",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf dist;mkdir dist;cp -r sprites dist/ && node scripts/indexAssets.mjs > dist/index.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": "true"
+}
