@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="744.09448819"
    height="1052.3622047"
    id="svg27099"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="cheat-sheet.svg">
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   sodipodi:docname="cheat-sheet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs27101">
     <linearGradient
@@ -565,21 +565,30 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="418.73315"
-     inkscape:cy="204.30967"
+     inkscape:cx="432.04223"
+     inkscape:cy="389.61583"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-width="1392"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid3802" />
+       id="grid3802"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata27104">
@@ -654,61 +663,56 @@
        x="324.07263"
        y="538.80859" />
     <text
-       sodipodi:linespacing="125%"
        id="text4357"
        y="391.89694"
        x="91.521027"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.50999832px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.51px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:13px;letter-spacing:0px"
+         style="font-size:13px;line-height:1.25;letter-spacing:0px"
          y="391.89694"
          x="91.521027"
          id="tspan4359"
          sodipodi:role="line">Primary Colours</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.50999832px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.51px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="91.939972"
        y="436.89694"
-       id="text4361"
-       sodipodi:linespacing="125%"><tspan
+       id="text4361"><tspan
          sodipodi:role="line"
          id="tspan4363"
          x="91.939972"
          y="436.89694"
-         style="font-size:13px;letter-spacing:0px">Secondary Colours</tspan></text>
+         style="font-size:13px;line-height:1.25;letter-spacing:0px">Secondary Colours</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text4365"
        y="532.80859"
        x="92.365265"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.50999832px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.51px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:13px;letter-spacing:0px"
+         style="font-size:13px;line-height:1.25;letter-spacing:0px"
          y="532.80859"
          x="92.365265"
          id="tspan4367"
          sodipodi:role="line">Windows/Lights</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.50999832px;word-spacing:0px;display:inline;fill:#888888;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.51px;word-spacing:0px;display:inline;fill:#888888;fill-opacity:1;stroke:none"
        x="328.0968"
        y="532.80859"
-       id="text4369"
-       sodipodi:linespacing="125%"><tspan
+       id="text4369"><tspan
          sodipodi:role="line"
          id="tspan4371"
          x="328.0968"
          y="532.80859"
-         style="font-size:13px;letter-spacing:0px;fill:#888888">All night</tspan></text>
+         style="font-size:13px;line-height:1.25;letter-spacing:0px;fill:#888888">All night</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text4373"
        y="532.80859"
        x="229.91211"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.50999832px;word-spacing:0px;display:inline;fill:#888888;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.51px;word-spacing:0px;display:inline;fill:#888888;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:13px;letter-spacing:0px;fill:#888888"
+         style="font-size:13px;line-height:1.25;letter-spacing:0px;fill:#888888"
          y="532.80859"
          x="229.91211"
          id="tspan4375"
@@ -729,40 +733,37 @@
        style="display:inline;fill:#ccff91;fill-opacity:1;stroke:none" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.50999832px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.51px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="91.521027"
        y="592.80859"
-       id="text4381"
-       sodipodi:linespacing="125%"><tspan
+       id="text4381"><tspan
          sodipodi:role="line"
          id="tspan4383"
          x="91.521027"
          y="592.80859"
-         style="font-size:13px;letter-spacing:0px">Neon Lights</tspan></text>
+         style="font-size:13px;line-height:1.25;letter-spacing:0px">Neon Lights</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text4385"
        y="592.80859"
        x="230.08282"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.50999832px;word-spacing:0px;display:inline;fill:#888888;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.51px;word-spacing:0px;display:inline;fill:#888888;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:13px;letter-spacing:0px;fill:#888888"
+         style="font-size:13px;line-height:1.25;letter-spacing:0px;fill:#888888"
          y="592.80859"
          x="230.08282"
          id="tspan4387"
          sodipodi:role="line">Solid</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.50999832px;word-spacing:0px;display:inline;fill:#888888;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.51px;word-spacing:0px;display:inline;fill:#888888;fill-opacity:1;stroke:none"
        x="325.08282"
        y="592.80859"
-       id="text4389"
-       sodipodi:linespacing="125%"><tspan
+       id="text4389"><tspan
          sodipodi:role="line"
          id="tspan4391"
          x="325.08282"
          y="592.80859"
-         style="font-size:13px;letter-spacing:0px;fill:#888888">Blinking</tspan></text>
+         style="font-size:13px;line-height:1.25;letter-spacing:0px;fill:#888888">Blinking</tspan></text>
     <rect
        y="538.80859"
        x="419.70779"
@@ -771,41 +772,38 @@
        id="rect3008"
        style="display:inline;fill:#ffff92;fill-opacity:1;stroke:none" />
     <text
-       sodipodi:linespacing="125%"
        id="text3010"
        y="532.80859"
        x="422.73196"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.50999832px;word-spacing:0px;display:inline;fill:#888888;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.51px;word-spacing:0px;display:inline;fill:#888888;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:13px;letter-spacing:0px;fill:#888888"
+         style="font-size:13px;line-height:1.25;letter-spacing:0px;fill:#888888"
          y="532.80859"
          x="422.73196"
          id="tspan3012"
          sodipodi:role="line">Only at Night</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text3786"
        y="346.80765"
        x="92.857132"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-weight:bold;font-size:18px"
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif"
          y="346.80765"
          x="92.857132"
          id="tspan3788"
          sodipodi:role="line">Legend of colour replacements.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="92.857132"
        y="713.03943"
-       id="text3790"
-       sodipodi:linespacing="125%"><tspan
+       id="text3790"><tspan
          id="tspan3794"
          sodipodi:role="line"
          x="92.857132"
          y="713.03943"
-         style="font-weight:bold;font-size:18px">Lighting</tspan></text>
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif">Lighting</tspan></text>
     <g
        transform="translate(66.65781,62.39159)"
        id="g3810">
@@ -898,53 +896,50 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.50999832px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.51px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="91.521027"
        y="739.55731"
-       id="text3926"
-       sodipodi:linespacing="125%"><tspan
+       id="text3926"><tspan
          sodipodi:role="line"
          id="tspan3928"
          x="91.521027"
          y="739.55731"
-         style="font-size:13px;letter-spacing:0px">No shadows. Use light/dark primary/secondary colours as these may be swapped to </tspan><tspan
+         style="font-size:13px;line-height:1.25;letter-spacing:0px">No shadows. Use light/dark primary/secondary colours as these may be swapped to </tspan><tspan
          id="tspan3930"
          sodipodi:role="line"
          x="91.521027"
-         y="755.80731"
-         style="font-size:13px;letter-spacing:0px">provide &quot;rotation&quot; of 2D sprites.</tspan></text>
+         y="797.31525"
+         style="font-size:13px;line-height:1.25;letter-spacing:0px">provide &quot;rotation&quot; of 2D sprites.</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text5007"
        y="214.37906"
        x="92.857132"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-weight:bold;font-size:18px"
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif"
          y="214.37906"
          x="92.857132"
          sodipodi:role="line"
          id="tspan5009">Dimensions</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text5011"
        y="237.89694"
        x="91.521027"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.50999832px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.51px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:13px;letter-spacing:0px"
+         style="font-size:13px;line-height:1.25;letter-spacing:0px"
          y="237.89694"
          x="91.521027"
          sodipodi:role="line"
          id="tspan5015">* A basic tile is 256x128 px in size. See 1x1-template.svg.</tspan><tspan
          id="tspan5043"
-         style="font-size:13px;letter-spacing:0px"
-         y="254.14694"
+         style="font-size:13px;line-height:1.25;letter-spacing:0px"
+         y="295.65485"
          x="91.521027"
-         sodipodi:role="line" /><tspan
+         sodipodi:role="line"> </tspan><tspan
          id="tspan5041"
-         style="font-size:13px;letter-spacing:0px"
-         y="270.39694"
+         style="font-size:13px;line-height:1.25;letter-spacing:0px"
+         y="353.41278"
          x="91.521027"
          sodipodi:role="line">* Doorways should be no less than 40 px high.</tspan></text>
     <rect
@@ -962,37 +957,34 @@
        x="324.07263"
        y="650.07385" />
     <text
-       sodipodi:linespacing="125%"
        id="text3061"
        y="644.07385"
        x="91.521027"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.50999832px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.51px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:13px;letter-spacing:0px"
+         style="font-size:13px;line-height:1.25;letter-spacing:0px"
          y="644.07385"
          x="91.521027"
          id="tspan3063"
          sodipodi:role="line">Landscaping</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.50999832px;word-spacing:0px;display:inline;fill:#888888;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.51px;word-spacing:0px;display:inline;fill:#888888;fill-opacity:1;stroke:none"
        x="230.08282"
        y="644.07385"
-       id="text3065"
-       sodipodi:linespacing="125%"><tspan
+       id="text3065"><tspan
          sodipodi:role="line"
          id="tspan3067"
          x="230.08282"
          y="644.07385"
-         style="font-size:13px;letter-spacing:0px;fill:#888888">Residential</tspan></text>
+         style="font-size:13px;line-height:1.25;letter-spacing:0px;fill:#888888">Residential</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text3069"
        y="644.07385"
        x="325.08282"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.50999832px;word-spacing:0px;display:inline;fill:#888888;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.51px;word-spacing:0px;display:inline;fill:#888888;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:13px;letter-spacing:0px;fill:#888888"
+         style="font-size:13px;line-height:1.25;letter-spacing:0px;fill:#888888"
          y="644.07385"
          x="325.08282"
          id="tspan3071"
@@ -1005,24 +997,22 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.50999832px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.51px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="559.27222"
        y="657.15533"
-       id="text3517"
-       sodipodi:linespacing="125%"><tspan
+       id="text3517"><tspan
          sodipodi:role="line"
          id="tspan3519"
          x="559.27222"
          y="657.15533"
-         style="font-size:13px;letter-spacing:0px">Billboard!</tspan></text>
+         style="font-size:13px;line-height:1.25;letter-spacing:0px">Billboard!</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text3521"
        y="593.16217"
        x="559.27222"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.50999832px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.51px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:13px;letter-spacing:0px"
+         style="font-size:13px;line-height:1.25;letter-spacing:0px"
          y="593.16217"
          x="559.27222"
          id="tspan3523"
@@ -1056,16 +1046,15 @@
        style="display:inline;fill:#dbdbc1;fill-opacity:1;stroke:none" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.50999832px;word-spacing:0px;display:inline;fill:#888888;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.51px;word-spacing:0px;display:inline;fill:#888888;fill-opacity:1;stroke:none"
        x="425.13846"
        y="644.07385"
-       id="text3147"
-       sodipodi:linespacing="125%"><tspan
+       id="text3147"><tspan
          id="tspan3169"
          sodipodi:role="line"
          x="425.13846"
          y="644.07385"
-         style="font-size:13px;letter-spacing:0px;fill:#888888">Industrial</tspan></text>
+         style="font-size:13px;line-height:1.25;letter-spacing:0px;fill:#888888">Industrial</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path3173"
@@ -1182,16 +1171,15 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:102.35070801px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="83.562111"
        y="120.25098"
-       id="text3012"
-       sodipodi:linespacing="125%"><tspan
+       id="text3012"><tspan
          sodipodi:role="line"
          id="tspan3014"
          x="83.562111"
          y="120.25098"
-         style="font-weight:bold">Iso Bits</tspan></text>
+         style="font-weight:bold;font-size:102.351px;line-height:1.25;font-family:sans-serif">Iso Bits</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 90.714286,142.16478 c 2.857143,1.42857 535.714284,0 535.714284,0"
@@ -1219,13 +1207,12 @@
        id="rect4312"
        style="display:inline;fill:#00cc1d;fill-opacity:1;stroke:none" />
     <text
-       sodipodi:linespacing="125%"
        id="text4314"
        y="475.08072"
        x="91.939972"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.50999832px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:-52.51px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:13px;letter-spacing:0px"
+         style="font-size:13px;line-height:1.25;letter-spacing:0px"
          y="475.08072"
          x="91.939972"
          id="tspan4316"
