@@ -1,0 +1,19 @@
+services:
+  web:
+    container_name: isobits.kyd.au
+    build: .
+    restart: always
+    volumes:
+      - ./data:/data
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.isobits.rule=Host(`isobits.kyd.au`)
+      - traefik.http.routers.isobits.entrypoints=websecure
+      - traefik.http.routers.isobits.tls.certresolver=le
+      - traefik.http.services.isobits.loadbalancer.server.port=80
+      - traefik.docker.network=traefik_default
+    networks:
+      - traefik_default
+networks:
+  traefik_default:
+    external: true
